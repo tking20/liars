@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/liars/static/js/main.d52188ab.js",
+    "main.js": "/liars/static/js/main.be5bf110.js",
     "index.html": "/liars/index.html",
-    "main.d52188ab.js.map": "/liars/static/js/main.d52188ab.js.map"
+    "main.be5bf110.js.map": "/liars/static/js/main.be5bf110.js.map"
   },
   "entrypoints": [
-    "static/js/main.d52188ab.js"
+    "static/js/main.be5bf110.js"
   ]
 }
