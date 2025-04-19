@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/liars/static/css/main.e6c13ad2.css",
-    "main.js": "/liars/static/js/main.347b6c71.js",
-    "static/js/453.39cdae38.chunk.js": "/liars/static/js/453.39cdae38.chunk.js",
+    "main.js": "/liars/static/js/main.d52188ab.js",
     "index.html": "/liars/index.html",
-    "main.e6c13ad2.css.map": "/liars/static/css/main.e6c13ad2.css.map",
-    "main.347b6c71.js.map": "/liars/static/js/main.347b6c71.js.map",
-    "453.39cdae38.chunk.js.map": "/liars/static/js/453.39cdae38.chunk.js.map"
+    "main.d52188ab.js.map": "/liars/static/js/main.d52188ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.347b6c71.js"
+    "static/js/main.d52188ab.js"
   ]
 }
